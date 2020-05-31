@@ -12,5 +12,3 @@ require (
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/viper v1.7.0
 )
-
-replace github.com/eriklupander/tradfri-go => /home/rubikscraft/Documents/VSCode/tradfri-go/
